@@ -8,7 +8,7 @@ class LaptopRecommender:
         self.data = pd.read_csv("laptop_data.csv")
 
         # Combine key text features into a single column
-        self.data["combined_features"] = (
+        self.data["combined_features"] = ( 
             self.data["Brand"].astype(str) + " " +
             self.data["Processor"].astype(str) + " " +
             self.data["RAM"].astype(str) + " " +
