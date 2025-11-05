@@ -1,0 +1,201 @@
+Name,Brand,Processor,RAM,Storage,GPU,Price,Usage
+Apple Model B,Apple,M1,32GB,2TB SSD,GTX 1660Ti,60864,business
+Acer Model B,Acer,i7 11th Gen,4GB,1TB HDD,GTX 1660Ti,191167,office
+Dell Model B,Dell,Ryzen 3,4GB,512GB SSD,RTX 3060,138993,office
+Lenovo Model F,Lenovo,i3 10th Gen,16GB,1TB SSD,GTX 1660Ti,81098,editing
+Acer Model D,Acer,M2,32GB,1TB HDD,RTX 3050,92723,editing
+HP Model A,HP,Ryzen 7,8GB,1TB HDD,GTX 1650,81893,office
+MSI Model C,MSI,Ryzen 5,16GB,2TB SSD,RTX 3060,183115,business
+MSI Model B,MSI,Ryzen 5,16GB,1TB HDD,RTX 3060,57976,student
+Acer Model D,Acer,Ryzen 7,32GB,256GB SSD,RTX 3060,123982,office
+Dell Model D,Dell,M1,32GB,1TB SSD,RTX 3050,197861,office
+Lenovo Model F,Lenovo,Ryzen 5,4GB,512GB SSD,GTX 1660Ti,76540,business
+Dell Model D,Dell,Ryzen 5,8GB,1TB SSD,Integrated,164292,editing
+MSI Model G,MSI,M1,8GB,1TB HDD,RTX 3060,182749,office
+HP Model E,HP,i5 10th Gen,8GB,1TB SSD,GTX 1650,59284,editing
+Lenovo Model A,Lenovo,M2,4GB,1TB SSD,GTX 1650,186192,business
+MSI Model A,MSI,M2,32GB,1TB HDD,RTX 3050,169582,gaming
+Apple Model C,Apple,M1,8GB,1TB HDD,RTX 3050,170922,office
+ASUS Model F,ASUS,Ryzen 7,8GB,1TB SSD,GTX 1660Ti,63122,editing
+Lenovo Model H,Lenovo,Ryzen 3,32GB,2TB SSD,Integrated,74886,student
+ASUS Model D,ASUS,i3 10th Gen,8GB,1TB SSD,RTX 3050,81669,gaming
+Dell Model A,Dell,M1,32GB,256GB SSD,RTX 4070,121216,student
+Acer Model E,Acer,M2,8GB,256GB SSD,Integrated,142669,student
+HP Model D,HP,Ryzen 3,4GB,1TB SSD,RTX 3060,154899,gaming
+ASUS Model D,ASUS,Ryzen 7,16GB,1TB HDD,RTX 4070,135593,gaming
+HP Model E,HP,i3 10th Gen,32GB,2TB SSD,RTX 3060,163660,business
+MSI Model D,MSI,M2,16GB,1TB SSD,RTX 3050,178323,business
+MSI Model F,MSI,Ryzen 3,16GB,1TB HDD,RTX 3050,153827,editing
+MSI Model D,MSI,M1,32GB,256GB SSD,RTX 3060,186303,student
+ASUS Model D,ASUS,Ryzen 3,32GB,512GB SSD,GTX 1660Ti,101903,gaming
+Acer Model G,Acer,M1,4GB,1TB HDD,RTX 4070,42756,editing
+Acer Model B,Acer,i3 10th Gen,16GB,1TB HDD,GTX 1660Ti,170739,office
+Acer Model E,Acer,M1,4GB,512GB SSD,RTX 4070,94839,office
+Acer Model D,Acer,i5 10th Gen,32GB,1TB HDD,GTX 1660Ti,139720,gaming
+Dell Model B,Dell,Ryzen 7,16GB,256GB SSD,GTX 1660Ti,50145,business
+MSI Model F,MSI,Ryzen 5,8GB,512GB SSD,RTX 3060,195280,office
+HP Model H,HP,Ryzen 5,16GB,256GB SSD,RTX 3060,179862,business
+MSI Model F,MSI,Ryzen 5,4GB,256GB SSD,Integrated,123480,editing
+MSI Model C,MSI,M2,4GB,512GB SSD,Integrated,101919,business
+ASUS Model H,ASUS,Ryzen 3,4GB,1TB HDD,RTX 3050,63928,student
+MSI Model H,MSI,M1,8GB,256GB SSD,RTX 4070,135730,student
+Acer Model C,Acer,i7 11th Gen,4GB,256GB SSD,RTX 3060,186522,business
+Lenovo Model C,Lenovo,i5 10th Gen,8GB,512GB SSD,GTX 1660Ti,91743,gaming
+Lenovo Model F,Lenovo,Ryzen 5,4GB,256GB SSD,RTX 3060,199997,office
+Dell Model D,Dell,Ryzen 7,8GB,512GB SSD,RTX 3060,69789,office
+ASUS Model C,ASUS,M2,8GB,2TB SSD,RTX 4070,199945,business
+Lenovo Model B,Lenovo,i7 11th Gen,8GB,1TB SSD,RTX 4070,105712,editing
+HP Model G,HP,i3 10th Gen,8GB,2TB SSD,RTX 3060,83091,office
+ASUS Model C,ASUS,i3 10th Gen,32GB,1TB HDD,RTX 3050,102361,editing
+Acer Model F,Acer,i7 11th Gen,32GB,2TB SSD,GTX 1660Ti,80869,business
+Lenovo Model D,Lenovo,Ryzen 3,4GB,1TB SSD,Integrated,53170,business
+ASUS Model H,ASUS,i3 10th Gen,32GB,512GB SSD,GTX 1660Ti,190494,editing
+MSI Model C,MSI,i7 11th Gen,32GB,1TB HDD,RTX 3060,57918,business
+Apple Model F,Apple,Ryzen 7,4GB,1TB HDD,RTX 3050,98973,editing
+Lenovo Model H,Lenovo,Ryzen 7,4GB,1TB HDD,Integrated,134215,business
+Lenovo Model G,Lenovo,Ryzen 7,32GB,1TB SSD,Integrated,59254,office
+Acer Model G,Acer,i5 10th Gen,4GB,1TB SSD,RTX 4070,134988,student
+Acer Model G,Acer,i7 11th Gen,4GB,256GB SSD,GTX 1650,164909,editing
+Dell Model A,Dell,M1,16GB,512GB SSD,RTX 3060,58831,editing
+Lenovo Model E,Lenovo,Ryzen 7,32GB,256GB SSD,Integrated,98100,editing
+ASUS Model C,ASUS,Ryzen 7,32GB,256GB SSD,RTX 3050,119864,student
+MSI Model D,MSI,Ryzen 5,16GB,1TB HDD,RTX 4070,114182,editing
+Dell Model G,Dell,Ryzen 7,16GB,512GB SSD,GTX 1650,66198,student
+ASUS Model C,ASUS,Ryzen 5,8GB,2TB SSD,RTX 3060,147178,office
+HP Model H,HP,M2,4GB,256GB SSD,RTX 3050,131391,office
+Dell Model E,Dell,M1,32GB,1TB HDD,RTX 4070,89544,student
+ASUS Model G,ASUS,Ryzen 7,16GB,256GB SSD,RTX 4070,108298,editing
+Lenovo Model C,Lenovo,Ryzen 3,8GB,256GB SSD,GTX 1650,71355,editing
+HP Model F,HP,i3 10th Gen,4GB,256GB SSD,RTX 4070,133368,editing
+Acer Model C,Acer,M2,32GB,1TB SSD,Integrated,196750,office
+Acer Model D,Acer,M1,32GB,256GB SSD,GTX 1660Ti,53420,office
+HP Model C,HP,Ryzen 3,32GB,1TB SSD,RTX 4070,178176,gaming
+Acer Model A,Acer,i3 10th Gen,4GB,1TB HDD,Integrated,95663,gaming
+Acer Model G,Acer,Ryzen 7,16GB,512GB SSD,RTX 4070,189589,business
+HP Model E,HP,M1,32GB,2TB SSD,GTX 1650,84017,gaming
+Lenovo Model A,Lenovo,M1,16GB,1TB HDD,RTX 4070,74798,student
+Lenovo Model G,Lenovo,Ryzen 7,4GB,2TB SSD,Integrated,70289,office
+Acer Model C,Acer,M1,16GB,1TB HDD,RTX 3050,87769,office
+HP Model G,HP,M1,4GB,256GB SSD,Integrated,154897,editing
+HP Model B,HP,Ryzen 3,4GB,512GB SSD,RTX 3060,173186,gaming
+Apple Model C,Apple,Ryzen 3,32GB,1TB HDD,RTX 3060,186777,editing
+ASUS Model F,ASUS,M1,32GB,256GB SSD,GTX 1660Ti,178830,business
+Dell Model H,Dell,i7 11th Gen,16GB,512GB SSD,GTX 1650,147532,office
+Lenovo Model F,Lenovo,M2,8GB,256GB SSD,GTX 1660Ti,157136,business
+MSI Model F,MSI,Ryzen 3,4GB,256GB SSD,RTX 3050,75175,editing
+MSI Model B,MSI,Ryzen 7,8GB,512GB SSD,GTX 1650,87693,business
+HP Model C,HP,M2,16GB,1TB HDD,GTX 1660Ti,71224,gaming
+Acer Model A,Acer,Ryzen 5,8GB,1TB SSD,GTX 1660Ti,191158,gaming
+MSI Model F,MSI,i3 10th Gen,32GB,256GB SSD,Integrated,176854,gaming
+HP Model E,HP,i3 10th Gen,16GB,2TB SSD,RTX 4070,103908,student
+Apple Model D,Apple,M2,32GB,1TB SSD,RTX 3050,145940,office
+Apple Model H,Apple,Ryzen 5,4GB,1TB HDD,GTX 1650,67822,editing
+MSI Model B,MSI,Ryzen 7,16GB,512GB SSD,RTX 3050,100595,office
+Lenovo Model B,Lenovo,Ryzen 5,16GB,256GB SSD,GTX 1650,140726,gaming
+Lenovo Model E,Lenovo,Ryzen 7,32GB,512GB SSD,RTX 4070,43924,gaming
+ASUS Model C,ASUS,Ryzen 5,8GB,1TB SSD,GTX 1650,194665,office
+Apple Model D,Apple,Ryzen 7,8GB,512GB SSD,GTX 1650,76251,editing
+Lenovo Model H,Lenovo,Ryzen 5,16GB,2TB SSD,GTX 1660Ti,106382,editing
+MSI Model C,MSI,i7 11th Gen,8GB,1TB HDD,RTX 4070,92596,gaming
+Apple Model A,Apple,Ryzen 5,4GB,512GB SSD,RTX 4070,147223,business
+MSI Model G,MSI,i3 10th Gen,32GB,1TB HDD,GTX 1660Ti,173650,student
+Acer Model C,Acer,M1,4GB,256GB SSD,RTX 3050,121990,student
+MSI Model A,MSI,Ryzen 3,4GB,256GB SSD,Integrated,106465,gaming
+Lenovo Model F,Lenovo,Ryzen 3,8GB,1TB HDD,GTX 1660Ti,78167,office
+HP Model E,HP,i3 10th Gen,4GB,1TB SSD,Integrated,192385,business
+Lenovo Model B,Lenovo,Ryzen 7,32GB,2TB SSD,RTX 4070,134509,office
+Apple Model F,Apple,M1,8GB,2TB SSD,RTX 3060,118835,gaming
+Acer Model G,Acer,Ryzen 5,8GB,256GB SSD,GTX 1650,70469,editing
+Lenovo Model F,Lenovo,Ryzen 7,8GB,256GB SSD,GTX 1650,197566,editing
+Acer Model C,Acer,Ryzen 7,16GB,256GB SSD,GTX 1650,188203,student
+Acer Model H,Acer,Ryzen 3,16GB,512GB SSD,GTX 1660Ti,102905,gaming
+MSI Model G,MSI,M2,32GB,1TB SSD,RTX 3050,107788,office
+Acer Model G,Acer,M2,4GB,512GB SSD,GTX 1650,116072,gaming
+ASUS Model E,ASUS,M1,4GB,1TB SSD,Integrated,98050,office
+MSI Model F,MSI,M2,8GB,1TB HDD,GTX 1660Ti,117706,gaming
+ASUS Model E,ASUS,Ryzen 7,8GB,1TB HDD,GTX 1660Ti,168611,student
+ASUS Model C,ASUS,M1,8GB,512GB SSD,GTX 1650,176508,editing
+Acer Model D,Acer,i3 10th Gen,4GB,256GB SSD,RTX 3060,152145,gaming
+Apple Model G,Apple,M2,16GB,1TB SSD,RTX 3060,185191,gaming
+MSI Model D,MSI,M1,4GB,2TB SSD,GTX 1660Ti,54395,office
+ASUS Model C,ASUS,M1,16GB,1TB HDD,RTX 3060,133655,student
+Apple Model A,Apple,i7 11th Gen,32GB,512GB SSD,Integrated,115052,gaming
+Dell Model C,Dell,Ryzen 3,4GB,1TB SSD,RTX 3050,51823,office
+ASUS Model C,ASUS,i7 11th Gen,4GB,2TB SSD,RTX 3050,75603,gaming
+Acer Model E,Acer,i7 11th Gen,16GB,2TB SSD,RTX 3060,93372,office
+Lenovo Model C,Lenovo,Ryzen 7,32GB,1TB HDD,RTX 3050,155270,office
+Apple Model D,Apple,M2,8GB,2TB SSD,RTX 3050,157014,gaming
+Apple Model C,Apple,Ryzen 3,32GB,1TB HDD,RTX 4070,121646,gaming
+Dell Model C,Dell,Ryzen 7,16GB,1TB SSD,RTX 3050,169239,office
+Lenovo Model A,Lenovo,Ryzen 5,4GB,1TB SSD,RTX 3050,88119,gaming
+ASUS Model A,ASUS,i3 10th Gen,16GB,1TB SSD,RTX 4070,155766,editing
+Lenovo Model F,Lenovo,M2,8GB,1TB HDD,RTX 3050,175946,gaming
+Lenovo Model D,Lenovo,M2,32GB,1TB SSD,RTX 4070,176499,gaming
+ASUS Model H,ASUS,i7 11th Gen,32GB,1TB SSD,RTX 3050,111117,office
+ASUS Model B,ASUS,M1,16GB,1TB HDD,RTX 3060,54035,office
+Lenovo Model C,Lenovo,M2,8GB,256GB SSD,GTX 1650,76020,student
+MSI Model A,MSI,i3 10th Gen,4GB,512GB SSD,RTX 4070,132241,editing
+Acer Model D,Acer,Ryzen 7,32GB,256GB SSD,GTX 1660Ti,131004,gaming
+Apple Model D,Apple,Ryzen 5,4GB,1TB SSD,RTX 4070,59775,office
+Acer Model H,Acer,M1,4GB,1TB HDD,RTX 3060,91475,gaming
+Dell Model F,Dell,i7 11th Gen,8GB,2TB SSD,GTX 1650,70768,office
+Dell Model H,Dell,Ryzen 5,32GB,1TB HDD,GTX 1660Ti,175365,gaming
+Lenovo Model F,Lenovo,Ryzen 5,16GB,2TB SSD,GTX 1650,192366,office
+Lenovo Model D,Lenovo,i7 11th Gen,8GB,2TB SSD,GTX 1650,110535,editing
+Lenovo Model G,Lenovo,Ryzen 5,16GB,512GB SSD,GTX 1650,115471,gaming
+ASUS Model G,ASUS,M2,16GB,256GB SSD,GTX 1660Ti,121898,business
+Dell Model H,Dell,M1,8GB,1TB SSD,RTX 3050,151044,office
+ASUS Model G,ASUS,i3 10th Gen,4GB,256GB SSD,RTX 3060,140545,business
+ASUS Model G,ASUS,i7 11th Gen,16GB,256GB SSD,Integrated,95187,office
+Dell Model B,Dell,Ryzen 7,8GB,2TB SSD,Integrated,191751,office
+HP Model H,HP,i3 10th Gen,4GB,256GB SSD,GTX 1660Ti,114569,editing
+HP Model B,HP,Ryzen 5,32GB,1TB HDD,RTX 3060,147571,student
+Apple Model F,Apple,M2,32GB,2TB SSD,RTX 3060,50624,business
+HP Model B,HP,i7 11th Gen,4GB,512GB SSD,RTX 3050,141002,student
+Acer Model F,Acer,i3 10th Gen,8GB,2TB SSD,GTX 1650,160014,gaming
+HP Model F,HP,i3 10th Gen,4GB,512GB SSD,RTX 4070,69054,gaming
+HP Model D,HP,M2,32GB,1TB HDD,Integrated,93575,gaming
+HP Model F,HP,Ryzen 5,4GB,1TB HDD,GTX 1650,143059,office
+HP Model D,HP,M1,8GB,2TB SSD,RTX 4070,154414,business
+Acer Model F,Acer,i7 11th Gen,32GB,1TB HDD,RTX 3050,64963,gaming
+ASUS Model E,ASUS,i7 11th Gen,32GB,512GB SSD,RTX 4070,139593,editing
+Lenovo Model G,Lenovo,M1,4GB,1TB HDD,GTX 1660Ti,44752,gaming
+ASUS Model F,ASUS,i3 10th Gen,4GB,2TB SSD,GTX 1660Ti,61416,gaming
+MSI Model H,MSI,i7 11th Gen,16GB,512GB SSD,GTX 1650,61587,editing
+Lenovo Model G,Lenovo,i5 10th Gen,4GB,1TB SSD,RTX 3050,175977,office
+Acer Model G,Acer,i7 11th Gen,4GB,256GB SSD,RTX 3060,98504,student
+Acer Model B,Acer,i5 10th Gen,16GB,1TB HDD,RTX 3050,132657,gaming
+Acer Model G,Acer,Ryzen 3,8GB,1TB HDD,RTX 3060,173177,editing
+HP Model H,HP,i7 11th Gen,16GB,2TB SSD,GTX 1660Ti,69737,editing
+HP Model H,HP,Ryzen 7,8GB,256GB SSD,RTX 4070,85773,student
+Acer Model C,Acer,i5 10th Gen,32GB,1TB HDD,GTX 1660Ti,174370,editing
+Dell Model A,Dell,i3 10th Gen,16GB,256GB SSD,GTX 1650,42998,business
+HP Model B,HP,Ryzen 7,32GB,2TB SSD,Integrated,101261,office
+MSI Model G,MSI,i3 10th Gen,4GB,256GB SSD,Integrated,166944,office
+MSI Model H,MSI,i7 11th Gen,4GB,512GB SSD,RTX 3050,75375,editing
+HP Model E,HP,M1,16GB,512GB SSD,GTX 1660Ti,197455,office
+Dell Model D,Dell,i3 10th Gen,32GB,1TB HDD,RTX 3050,63508,office
+Apple Model E,Apple,M1,4GB,2TB SSD,GTX 1650,46457,business
+MSI Model E,MSI,Ryzen 3,32GB,256GB SSD,GTX 1660Ti,110070,student
+MSI Model A,MSI,Ryzen 7,16GB,256GB SSD,RTX 3050,125326,editing
+MSI Model H,MSI,Ryzen 7,4GB,512GB SSD,RTX 3050,191666,student
+Dell Model E,Dell,Ryzen 3,8GB,512GB SSD,RTX 3060,40471,business
+ASUS Model F,ASUS,Ryzen 3,32GB,2TB SSD,RTX 4070,132752,editing
+HP Model E,HP,i7 11th Gen,4GB,1TB SSD,RTX 3050,110832,office
+MSI Model G,MSI,Ryzen 7,16GB,2TB SSD,GTX 1650,93482,editing
+Apple Model C,Apple,M2,32GB,1TB HDD,GTX 1660Ti,131149,business
+MSI Model D,MSI,i5 10th Gen,8GB,256GB SSD,RTX 3060,72326,office
+Apple Model E,Apple,Ryzen 5,16GB,512GB SSD,Integrated,103509,gaming
+Lenovo Model H,Lenovo,M2,32GB,256GB SSD,Integrated,50524,student
+Apple Model E,Apple,Ryzen 5,4GB,256GB SSD,RTX 3050,131113,office
+HP Model F,HP,M1,8GB,1TB SSD,GTX 1660Ti,142505,business
+Apple Model E,Apple,i7 11th Gen,4GB,512GB SSD,Integrated,79513,editing
+ASUS Model G,ASUS,Ryzen 5,4GB,1TB HDD,GTX 1660Ti,93236,business
+HP Model H,HP,M1,32GB,1TB SSD,GTX 1660Ti,122425,student
+Dell Model G,Dell,M1,16GB,1TB SSD,GTX 1660Ti,71758,office
+Lenovo Model D,Lenovo,M1,8GB,1TB SSD,RTX 3060,104579,business
+HP Model C,HP,M2,4GB,1TB HDD,RTX 4070,108930,student
+Acer Model D,Acer,M1,16GB,256GB SSD,RTX 3060,162999,editing
+Acer Model E,Acer,M2,16GB,256GB SSD,GTX 1650,106528,business
+Apple Model C,Apple,Ryzen 7,8GB,1TB HDD,RTX 4070,151717,business
+Lenovo Model D,Lenovo,Ryzen 7,8GB,2TB SSD,RTX 3060,96315,student
